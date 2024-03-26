@@ -1,0 +1,102 @@
+Cheers|Comedy|18-49, Male/Female, USA|50 hours|Positive
+Family Ties|Comedy/Family|18-49, Male/Female, USA|40 hours|Positive
+Miami Vice|Action/Crime|18-49, Male/Female, USA|35 hours|Positive
+Knight Rider|Action/Adventure|18-49, Male/Female, USA|45 hours|Positive
+Golden Girls|Comedy|18-49, Female, USA|30 hours|Positive
+Magnum, P.I.|Action/Adventure|18-49, Male/Female, USA|40 hours|Positive
+Full House|Comedy/Family|18-49, Male/Female, USA|35 hours|Positive
+Growing Pains|Comedy/Family|18-49, Male/Female, USA|40 hours|Positive
+Dallas|Drama|18-49, Male/Female, USA|45 hours|Positive
+The A-Team|Action/Adventure|18-49, Male/Female, USA|50 hours|Positive
+All in the Family|Comedy|18-49, Male/Female, USA|45 hours|Positive
+The Mary Tyler Moore Show|Comedy|18-49, Female, USA|40 hours|Positive
+M*A*S*H|Comedy/Drama/War|18-49, Male/Female, USA|35 hours|Positive
+Happy Days|Comedy|18-49, Male/Female, USA|45 hours|Positive
+Charlie's Angels|Action/Crime|18-49, Male/Female, USA|30 hours|Positive
+The Love Boat|Comedy/Drama/Romance|18-49, Male/Female, USA|40 hours|Positive
+The Jeffersons|Comedy|18-49, Male/Female, USA|35 hours|Positive
+Three's Company|Comedy|18-49, Male/Female, USA|40 hours|Positive
+The Six Million Dollar Man|Action/Adventure|18-49, Male, USA|45 hours|Positive
+Little House on the Prairie|Drama/Family/Western|18-49, Male/Female, USA|50 hours|Positive
+Good Times|Comedy/Drama|18-49, Male/Female, USA|45 hours|Positive
+The Waltons|Drama/Family|18-49, Male/Female, USA|40 hours|Positive
+Hawaii Five-O|Action/Crime/Drama|18-49, Male/Female, USA|35 hours|Positive
+Sanford and Son|Comedy|18-49, Male/Female, USA|45 hours|Positive
+Starsky & Hutch|Action/Crime|18-49, Male/Female, USA|30 hours|Positive
+Welcome Back, Kotter|Comedy|18-49, Male/Female, USA|40 hours|Positive
+Fantasy Island|Adventure/Comedy/Drama|18-49, Male/Female, USA|35 hours|Positive
+Kojak|Action/Crime/Drama|18-49, Male/Female, USA|40 hours|Positive
+Emergency!|Action/Adventure/Comedy|18-49, Male/Female, USA|45 hours|Positive
+The Brady Bunch|Comedy/Family|18-49, Male/Female, USA|50 hours|Positive
+The Twilight Zone|Drama/Fantasy/Sci-Fi|18+, Male/Female, USA|40 hours|Positive
+The Andy Griffith Show|Comedy/Family|18+, Male/Female, USA|35 hours|Positive
+I Love Lucy|Comedy/Family|18+, Male/Female, USA|30 hours|Positive
+Bonanza|Western|18+, Male/Female, USA|25 hours|Positive
+Gunsmoke|Western|18+, Male/Female, USA|20 hours|Positive
+The Ed Sullivan Show|Variety|18+, Male/Female, USA|15 hours|Positive
+Leave It to Beaver|Comedy/Family|18+, Male/Female, USA|10 hours|Positive
+The Honeymooners|Comedy|18+, Male/Female, USA|5 hours|Positive
+The Addams Family|Comedy/Horror|18+, Male/Female, USA|40 hours|Positive
+Bewitched|Comedy/Fantasy|18+, Male/Female, USA|35 hours|Positive
+Gilligan's Island|Comedy/Family|18+, Male/Female, USA|30 hours|Positive
+Batman|Action/Adventure|18+, Male/Female, USA|25 hours|Positive
+Get Smart|Action/Comedy|18+, Male/Female, USA|20 hours|Positive
+The Beverly Hillbillies|Comedy/Family|18+, Male/Female, USA|15 hours|Positive
+The Dick Van Dyke Show|Comedy/Family|18+, Male/Female, USA|10 hours|Positive
+The Munsters|Comedy/Family|18+, Male/Female, USA|5 hours|Positive
+The Fugitive|Drama/Thriller|18+, Male/Female, USA|40 hours|Positive
+Mission: Impossible|Action/Adventure|18+, Male/Female, USA|35 hours|Positive
+Lost in Space|Adventure/Family/Sci-Fi|18+, Male/Female, USA|30 hours|Positive
+The Outer Limits|Drama/Fantasy/Horror|18+, Male/Female, USA|25 hours|Positive
+The Marvelous Mrs. Maisel|Comedy/Drama|18-49, Male/Female, USA|50 hours|Positive
+The Boys|Action/Comedy|18-49, Male/Female, USA|45 hours|Positive
+Fleabag|Comedy/Drama|18-34, Male/Female, UK|40 hours|Positive
+Jack Ryan|Action/Drama|18-49, Male/Female, USA|35 hours|Positive
+The Grand Tour|Reality-TV|18-49, Male/Female, USA|30 hours|Positive
+Good Omens|Comedy/Fantasy|18-49, Male/Female, USA|25 hours|Positive
+Hanna|Action/Drama|18-49, Male/Female, USA|20 hours|Positive
+The Expanse|Drama/Sci-Fi|18-49, Male/Female, USA|15 hours|Positive
+The Man in the High Castle|Drama/Sci-Fi|18-49, Male/Female, USA|10 hours|Positive
+Transparent|Comedy/Drama|18-49, Male/Female, USA|5 hours|Positive
+Dark|Crime/Drama/Mystery|18-49, Male/Female, Germany|5 hours|Positive
+The Crown|Drama|25-54, Male/Female, UK|45 hours|Positive
+Money Heist|Crime/Drama|18-49, Male/Female, Spain|40 hours|Positive
+Black Mirror|Drama/Sci-Fi|18-49, Male/Female, UK|35 hours|Positive
+Ozark|Crime/Drama/Thriller|18-49, Male/Female, USA|30 hours|Positive
+The Witcher|Action/Fantasy|18-49, Male/Female, USA|25 hours|Positive
+Stranger Things|Drama/Sci-Fi|18-34, Male/Female, USA|20 hours|Positive
+Narcos|Biography/Crime/Drama|18-49, Male/Female, Colombia|15 hours|Positive
+Breaking Bad|Crime/Drama|18-49, Male/Female, USA|10 hours|Positive
+90 Day Fiancé|Reality-TV|18-49, Male/Female, USA|50 hours|Positive
+Say Yes to the Dress|Reality-TV|18-49, Female, USA|45 hours|Positive
+My 600-lb Life|Reality-TV|18-49, Male/Female, USA|40 hours|Positive
+Sister Wives|Reality-TV|18-49, Female, USA|35 hours|Positive
+Little People, Big World|Reality-TV|18-49, Male/Female, USA|30 hours|Positive
+Toddlers & Tiaras|Reality-TV|18-49, Female, USA|25 hours|Positive
+Trading Spaces|Reality-TV|18-49, Male/Female, USA|20 hours|Positive
+Counting On|Reality-TV|18-49, Female, USA|15 hours|Positive
+Dr. Pimple Popper|Reality-TV|18-49, Male/Female, USA|10 hours|Positive
+Long Island Medium|Reality-TV|18-49, Female, USA|5 hours|Positive
+Gravity Falls|Animation/Adventure/Comedy|5-14, Male/Female, USA|45 hours|Positive
+Kim Possible|Animation/Action/Adventure|5-14, Male/Female, USA|40 hours|Positive
+The Suite Life of Zack & Cody|Comedy/Family|5-14, Male/Female, USA|35 hours|Positive
+Wizards of Waverly Place|Adventure/Comedy/Drama|5-14, Male/Female, USA|30 hours|Positive
+Hannah Montana|Comedy/Family/Music|5-14, Female, USA|25 hours|Positive
+Lizzie McGuire|Comedy/Family|5-14, Female, USA|20 hours|Positive
+That's So Raven|Comedy/Family/Fantasy|5-14, Male/Female, USA|15 hours|Positive
+Phineas and Ferb|Animation/Comedy|5-14, Male/Female, USA|10 hours|Positive
+Girl Meets World|Comedy/Family|5-14, Male/Female, USA|5 hours|Positive
+Regular Show|Animation/Adventure/Comedy|5-14, Male/Female, USA|45 hours|Positive
+The Amazing World of Gumball|Animation/Adventure/Comedy|5-14, Male/Female, USA|40 hours|Positive
+Steven Universe|Animation/Action/Adventure|5-14, Male/Female, USA|35 hours|Positive
+Teen Titans Go!|Animation/Action/Adventure|5-14, Male/Female, USA|30 hours|Positive
+Johnny Bravo|Animation/Comedy|5-14, Male/Female, USA|20 hours|Positive
+Courage the Cowardly Dog|Animation/Comedy/Family|5-14, Male/Female, USA|15 hours|Positive
+Adventure Time|Animation/Adventure/Comedy|5-14, Male/Female, USA|50 hours|Positive
+The Amazing World of Gumball|Animation/Adventure/Comedy|5-14, Male/Female, USA|40 hours|Positive
+Steven Universe|Animation/Action/Adventure|5-14, Male/Female, USA|35 hours|Positive
+Ben 10|Animation/Action/Adventure|5-14, Male/Female, USA|25 hours|Positive
+Johnny Bravo|Animation/Comedy|5-14, Male/Female, USA|20 hours|Positive
+Courage the Cowardly Dog|Animation/Comedy/Family|5-14, Male/Female, USA|15 hours|Positive
+Ed, Edd n Eddy|Animation/Comedy|5-14, Male/Female, USA|10 hours|Positive
+Dexter's Laboratory|Animation/Comedy/Family|5-14, Male/Female, USA|5 hours|Positive
